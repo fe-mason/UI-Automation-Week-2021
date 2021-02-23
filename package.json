@@ -1,0 +1,22 @@
+{
+  "name": "ui-automation-week-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fe-mason/UI-Automation-Week-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fe-mason/UI-Automation-Week-2021/issues"
+  },
+  "homepage": "https://github.com/fe-mason/UI-Automation-Week-2021#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
